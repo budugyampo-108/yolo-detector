@@ -13,7 +13,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ## Live app
-YOUR STREAMLIT LINK
+https://yolo-detector-nzc5uxpdfnkw5ncdjledzf.streamlit.app
 
 ## Author
 Francis, Pentecost University College
