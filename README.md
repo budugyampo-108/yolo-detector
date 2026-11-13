@@ -16,4 +16,4 @@ streamlit run app.py
 https://yolo-detector-nzc5uxpdfnkw5ncdjledzf.streamlit.app
 
 ## Author
-Francis, Pentecost University College
+Francis Budu Gyampo, Pentecost University 
